@@ -1,4 +1,4 @@
-## 🎯 Ansible SQL Server Automation on Windows
+## 🎯 IronClad SQL – Automated SQL Server Hardening and Deployment                                          
 This Ansible project automates end-to-end installation and configuration of Microsoft SQL Server on Windows hosts. It includes pre-checks, silent install, hardening, and popular community tools.
 
 **✅ Features**
@@ -220,14 +220,3 @@ ansible-playbook -i inventory/hosts site.yml --tags "installsql"
 Want to contribute? Open a PR or discussion!
 
 ---
-
-**📄 License**
-MIT License
-
----
-
-**👤 Author**
-
-Created by Saad Kanwar
-
-GitHub: @ssk845
